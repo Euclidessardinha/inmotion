@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --inmotion-red: #e5092f;
+  --inmotion-black: #000000;
+  --inmotion-white: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+}
